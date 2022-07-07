@@ -1,0 +1,16 @@
+PODS:
+  - objc-add (0.1.0)
+
+DEPENDENCIES:
+  - objc-add (from `../`)
+
+EXTERNAL SOURCES:
+  objc-add:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  objc-add: 30f51d2352978ae97a9df27a4b0de30f516d7380
+
+PODFILE CHECKSUM: 8eca8fd67ca99d3a9b0365f16db2376cd94e280e
+
+COCOAPODS: 1.11.3

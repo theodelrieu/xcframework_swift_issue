@@ -1,0 +1,16 @@
+PODS:
+  - swift-add (0.1.0)
+
+DEPENDENCIES:
+  - swift-add (from `../`)
+
+EXTERNAL SOURCES:
+  swift-add:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  swift-add: d12adfec2fc550d494f075368503285ca6984789
+
+PODFILE CHECKSUM: f47e5ac159e753fbf88172ee47b6959e9bb718a3
+
+COCOAPODS: 1.11.3

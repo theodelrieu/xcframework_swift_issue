@@ -1,0 +1,23 @@
+{
+  "name": "swift-add",
+  "version": "0.1.0",
+  "summary": "A short description of swift-add.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Théo Delrieu/swift-add",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Théo Delrieu": "delrieutheo@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Théo Delrieu/swift-add.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "swift-add/Classes/**/*",
+  "vendored_frameworks": "swift-add/Frameworks/Add.xcframework"
+}

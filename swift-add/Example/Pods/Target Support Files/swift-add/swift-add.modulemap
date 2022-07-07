@@ -1,0 +1,6 @@
+framework module swift_add {
+  umbrella header "swift-add-umbrella.h"
+
+  export *
+  module * { export * }
+}
